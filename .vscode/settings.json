@@ -15,4 +15,19 @@
     "[go]": {
         "editor.formatOnSave": true
     },
+    "ecl.launchConfiguration": "not found",
+    "ecl.targetCluster": {},
+    "[rocket-mvbasic]": {
+        "editor.codeLens": false
+    },
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/.rmv/catalog/**": true,
+        "*/_*": false
+    },
 }
